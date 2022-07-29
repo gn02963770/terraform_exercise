@@ -1,4 +1,4 @@
-#exercies1 & 2
+#exercies1 & 2 & 3 & 5
 # Check
 terraform init
 terraform validate
